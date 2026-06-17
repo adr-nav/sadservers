@@ -6,14 +6,23 @@ SadServers provides preconfigured Linux servers with a specific problem that nee
 
 ## Repository structure
 sadservers/
+
 ├── 01-easy/
+
 │   ├── scenario-name/
+
 │   │   ├── README.md       # problem description and solution
+
 │   │   └── solution.sh      # commands/script for the solution
+
 ├── 02-medium/
+
 │   └── ...
+
 ├── 03-hard/
+
 │   └── ...
+
 
 ## Solution format
 Each scenario includes:
